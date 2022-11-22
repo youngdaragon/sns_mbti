@@ -185,7 +185,3 @@ print(result)
 
 ps.run(weights='yolov5s.pt',source=user_name, save_txt=True, project='result', name='mbti')
 
-
-
-# 01091653389
-# onit1boss$$!
