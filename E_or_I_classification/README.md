@@ -1,3 +1,8 @@
+# 욜로 기반으로 사람 감지 후 사람의 수를 이용한 mbti 측정 코드
+욜로 기반으로 작성하였으며 크
+
+
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
