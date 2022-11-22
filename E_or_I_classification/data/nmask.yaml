@@ -1,0 +1,5 @@
+train: data/nmask/images/train
+val: data/nmask/images/valid
+
+nc: 2
+names: ['mask', 'no-mask']
